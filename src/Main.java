@@ -8,6 +8,6 @@ public class Main {
         int miles = price / amount;
 
         System.out.println("Начисленные мили: " + miles);
-        
+
     }
 }
